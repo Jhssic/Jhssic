@@ -1,7 +1,5 @@
 ### Hi, I'm Jhess 
 
-🔭 software engineer	
-
 ```text 
    |\---/|
    | ,_, |
